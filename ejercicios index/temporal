@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang= "en">
+  <head>   
+ <meta charset= "UTF-8"/>
+ <meta name="description" content=""/>
+ <meta name=!"viewport" content="width=device-width, initial-scale 1.0"/>
+<title>Soy un titulo</title>
+<link rel="styleheet" href="./style.css"/>
+</head>
+  <body>
+    <header>
+      <nav></nav>
+    </header>
+    <main> 
+      <section> 
+       <article>
+         <h1>Título principal</h1>
+         <h2>Título secundario</h2>
+         <p>Primer artículo <b>texto en negrilla</b></p>
+         <p>Segundo artículo <i>texto en cursiva</i></p>
+        </article>
+      </section>
+      <!-- Unordered List -->
+      <ul>
+        <li>Texto</li>
+        <li><a href="https://www.google.com/" target="blank">segundo texto</a></li>
+        <li><u> tercer texto</u></li>
+        <li style="font-size: 24px; color: green;"> cuarto texto</li> 
+         <li style="border: 10px solid blue;"> quinto texto</li> 
+         <li style="border: 5px dashed grey;"> sexto texto</li> 
+         <li style="background: black; color: white"> septimo texto</li> 
+         <li style="font-size: 30px; border: 20px solid pink; background: green; color: purple"> octavo texto</li> 
+      </ul>
+      <ol>
+        <li>fotos de perros</li>
+      </ol>
+    </main>
+    <footer>Pie de página</footer>
+    <div></div>
+  </body>
